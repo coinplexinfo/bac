@@ -123,7 +123,7 @@ export const NavContent: React.FC = React.memo(function NavContent() {
               )}
             </button>
 
-            {/* Przyciski po prawej - desktop */}
+            {/* Przyciski po prawej - desktop  test*/}
             <div className="hidden lg:flex items-center gap-4">
               {isAuthenticated ? (
                 <>
